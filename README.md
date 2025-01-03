@@ -1,3 +1,4 @@
+
 🏦 SmartBank – The Banking Application
 📌 Introduction
 SmartBank is a modern web-based banking application designed to provide seamless, secure, and efficient digital banking services. Built using Java, Spring, Hibernate, HTML, CSS, JavaScript, and SQL, this project offers users a comprehensive platform to manage their finances, transfer funds, and handle transactions anytime, anywhere.
